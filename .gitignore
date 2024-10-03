@@ -3,3 +3,4 @@ tmp/todo.txt
 
 #Utilisation de regex
 tmp/*
+*.txt
