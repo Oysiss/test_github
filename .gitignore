@@ -1,6 +1,3 @@
-#Ignorer un fichier en particulier
-tmp/todo.txt
-
 #Utilisation de regex
 tmp/*
 *.xml
